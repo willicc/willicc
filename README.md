@@ -1,2 +1,2 @@
-# 💫 About Me:
+# About Me:
 I’m an airdropper and beginner developer focused on exploring Web3 opportunities through coding and testnets. I create scripts and small tools to automate claim flows, validate metadata, and run experiments on testnets. My approach is methodical: I document findings, prioritize security, and share useful tips with the community. I’m learning fast and always interested in partnerships, bounties, and project testing.
